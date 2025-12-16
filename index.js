@@ -6,10 +6,10 @@ const fs = require("fs");
 const path = require("path");
 
 // 🔴 APNA BOT TOKEN YAHAN DALO
-const TOKEN = "8364224671:AAF2zLHWPixVcUT6m4pwHBRWGCzFueEC0H0";
+const TOKEN = "8192831991:AAGtLr7bp2wRSbNjL6xFvPif7CiUUuhII4o";
 
 // 🔴 TUMHARA RENDER LIVE LINK
-const DOMAIN = "https://i";
+const DOMAIN = "https://images";
 
 // ✅ 4 MUST JOIN CHANNELS
 const FORCE_CHANNELS = [
